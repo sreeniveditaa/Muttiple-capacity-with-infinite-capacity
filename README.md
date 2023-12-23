@@ -1,4 +1,4 @@
-# DATE : 15/12/2023 
+# DATE : 15/12/2023
 
 # EXP NO 5 : Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 
